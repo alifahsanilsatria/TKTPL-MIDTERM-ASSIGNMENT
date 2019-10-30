@@ -1,0 +1,10 @@
+1923,1938,1917,1914$
+France,Germany,Austria$,Hungary
+New York,Austin,Dallas$,Miami
+1970s,1950s$,1920s,1960s
+The White Death,The Black Plague,Smallpox,The Bubonic Plague$
+Wybrand Van Wawyk, Jacob Van Heemskerck, Jan Pieterszoon Coen, Conrad Theodore van Deventer, Cornellis de Houtman$
+Daendels,Cornelis Spellman,Jacob Van Heemskerck,Wybrand Van Wawyk,Jan Pieterszoon Coen$
+Perjanjian Magelang,Perjanjian Buitenzorg,Perjanjian Batavia,Perjanjian Rengas Dengklok,Perjanjian Kalijati$
+Sri Sultan Hamengku Buwono IX$,Letnan Kolonel Suharto,Letnan Jenderal Urip Sumoharjo,Kolonel Gatot Subroto,Panglima Besar Jenderal Sudirman
+Hendricus Sneevliet,Semaun,Muso$,Alimin,Dipa Nusantara Aidit
