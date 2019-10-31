@@ -15,11 +15,11 @@ public class QuizRepository {
         allQuestionNumbers = questionNumberDao.getAllQuestion();
     }
 
-    public void insert(QuestionNumber questionNumber) {
+    public void Insert(QuestionNumber questionNumber) {
         new InsertQuestionNumberAsyncTask(questionNumberDao).execute(questionNumber);
     }
 
-    private List<QuestionNumber> getAllQuestionNumbers() {
+    public List<QuestionNumber> getAllQuestionNumbers() {
         return allQuestionNumbers;
     }
 
