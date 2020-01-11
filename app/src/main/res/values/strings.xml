@@ -2,13 +2,17 @@
     <string name="app_name">Quiz</string>
     <string name="login">LOGIN</string>
     <string name="register">REGISTER</string>
-    <string name="title_activity_login">Sign in</string>
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Password</string>
-    <string name="action_sign_in">Sign in or register</string>
-    <string name="action_sign_in_short">Sign in</string>
-    <string name="welcome">"Welcome !"</string>
-    <string name="invalid_username">Not a valid username</string>
-    <string name="invalid_password">Password must be >5 characters</string>
-    <string name="login_failed">"Login failed"</string>
+    <string name="prompt_email" translatable="false">Email</string>
+    <string name="prompt_password" translatable="false">Password</string>
+    <string name="welcome" translatable="false">"Welcome"</string>
+    <string name="complete_name">COMPLETE NAME</string>
+    <string name="username" translatable="false">USERNAME</string>
+    <string name="password" translatable="false">PASSWORD</string>
+    <string name="score">score</string>
+    <string name="question">Question</string>
+    <string name="high_score" translatable="false">highscore</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="simple_quiz">Simple Quiz</string>
+    <string name="add_quiz">ADD QUIZ</string>
+
 </resources>

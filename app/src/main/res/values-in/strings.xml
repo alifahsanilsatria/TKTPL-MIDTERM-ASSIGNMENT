@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kuis</string>
+    <string name="complete_name">NAMA LENGKAP</string>
+    <string name="login">MASUK</string>
+    <string name="question">Pertanyaan</string>
+    <string name="register">DAFTAR</string>
+    <string name="score">nilai</string>
+    <string name="simple_quiz">Kuis Sederhana</string>
+    <string name="start_quiz">Mulai Kuis</string>
+    <string name="add_quiz">TAMBAHKAN QUIZ</string>
+</resources>

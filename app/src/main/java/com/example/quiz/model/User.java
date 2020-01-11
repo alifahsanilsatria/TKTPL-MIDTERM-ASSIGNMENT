@@ -1,4 +1,4 @@
-package com.example.quiz;
+package com.example.quiz.model;
 
 import androidx.room.Entity;
 import androidx.room.PrimaryKey;
@@ -15,10 +15,13 @@ public class User {
 
     private String password;
 
+    private int high_score;
+
     public User(String complete_name, String username, String password) {
         this.complete_name = complete_name;
         this.username = username;
         this.password = password;
+        this.high_score = 0;
     }
 
     public void setId(int id) {
@@ -39,5 +42,25 @@ public class User {
 
     public String getPassword() {
         return password;
+    }
+
+    public int getHigh_score() {
+        return high_score;
+    }
+
+    public void setComplete_name(String complete_name) {
+        this.complete_name = complete_name;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
+    public void setHigh_score(int high_score) {
+        this.high_score = high_score;
     }
 }
